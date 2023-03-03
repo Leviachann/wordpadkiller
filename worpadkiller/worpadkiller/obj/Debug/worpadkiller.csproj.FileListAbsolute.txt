@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\worpadkiller\worpadkiller\bin\Debug\worpadkiller.exe.config
+C:\Users\User\source\repos\worpadkiller\worpadkiller\bin\Debug\worpadkiller.exe
+C:\Users\User\source\repos\worpadkiller\worpadkiller\bin\Debug\worpadkiller.pdb
+C:\Users\User\source\repos\worpadkiller\worpadkiller\obj\Debug\worpadkiller.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\worpadkiller\worpadkiller\obj\Debug\worpadkiller.Form1.resources
+C:\Users\User\source\repos\worpadkiller\worpadkiller\obj\Debug\worpadkiller.Properties.Resources.resources
+C:\Users\User\source\repos\worpadkiller\worpadkiller\obj\Debug\worpadkiller.csproj.GenerateResource.cache
+C:\Users\User\source\repos\worpadkiller\worpadkiller\obj\Debug\worpadkiller.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\worpadkiller\worpadkiller\obj\Debug\worpadkiller.exe
+C:\Users\User\source\repos\worpadkiller\worpadkiller\obj\Debug\worpadkiller.pdb
